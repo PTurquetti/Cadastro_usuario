@@ -1,4 +1,5 @@
 //criando os objetos dos elementos de texto do form
+//https://pturquetti.github.io/Cadastro_usuario/
 
 var nome = document.querySelector("#inputName");
 var nomeHelp = document.querySelector("#inputNameHelp");
